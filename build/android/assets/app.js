@@ -1,0 +1,1 @@
+/home/hector/Appcelerator_Studio_Workspace/Contactos/Resources/app.js

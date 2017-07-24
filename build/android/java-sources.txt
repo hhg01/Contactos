@@ -1,0 +1,8 @@
+"/home/hector/Appcelerator_Studio_Workspace/Contactos/build/android/gen/android/support/v7/appcompat/R.java"
+"/home/hector/Appcelerator_Studio_Workspace/Contactos/build/android/gen/android/support/v7/cardview/R.java"
+"/home/hector/Appcelerator_Studio_Workspace/Contactos/build/android/gen/com/contactos/AssetCryptImpl.java"
+"/home/hector/Appcelerator_Studio_Workspace/Contactos/build/android/gen/com/contactos/ContactosActivity.java"
+"/home/hector/Appcelerator_Studio_Workspace/Contactos/build/android/gen/com/contactos/ContactosAppInfo.java"
+"/home/hector/Appcelerator_Studio_Workspace/Contactos/build/android/gen/com/contactos/ContactosApplication.java"
+"/home/hector/Appcelerator_Studio_Workspace/Contactos/build/android/gen/com/contactos/R.java"
+"/home/hector/Appcelerator_Studio_Workspace/Contactos/build/android/gen/ti/modules/titanium/ui/R.java"
